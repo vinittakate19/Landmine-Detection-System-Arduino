@@ -55,7 +55,7 @@ No metal found
 
 ## 🔔 Alert Logic
 
-```cpp
+
 if (sensorValue == 0) {
   metalDetected = true;
   lcd.print("Landmine Found!");
@@ -82,17 +82,6 @@ Vinit Takate
 📜 License
 This project is licensed under the MIT License.
 
-
----
-
-### ✅ Next Steps
-
-1. Let me know your GitHub username so I can customize the link  
-2. Upload your `.ino` file and this `README.md`  
-3. Optionally: Add a `media/` folder for images or circuit diagrams
-
-Want help making the **GitHub repo public with everything uploaded**? I can also guide you through that!
-
-
+https://www.linkedin.com/posts/vinit-takate-815939252_smartdefense-landminedetection-arduinoprojects-activity-7340240920761520130-vY-C?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD5uQFEBSlHJUOZNCuPio20o-1n93C2tNCI
 
 
